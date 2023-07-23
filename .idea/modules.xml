@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Breakcraft-Projects.iml" filepath="$PROJECT_DIR$/Breakcraft-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bungee/Bungee.iml" filepath="$PROJECT_DIR$/Bungee/Bungee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges.iml" filepath="$PROJECT_DIR$/Challenges/Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Citybuild/Citybuild.iml" filepath="$PROJECT_DIR$/Citybuild/Citybuild.iml" />
+    </modules>
+  </component>
+</project>

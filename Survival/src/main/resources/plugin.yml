@@ -1,0 +1,14 @@
+name: Breakcraft-Survival
+version: 1.0
+main: de.Breakcraft.Survival.Main
+api-version: 1.13
+commands:
+   pawnshop:
+   craft:
+   chunk:
+   report:
+   regeln:
+   ban:
+softdepend:
+   - Vault
+   - PermissionsEX

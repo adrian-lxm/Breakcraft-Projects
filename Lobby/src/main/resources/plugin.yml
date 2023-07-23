@@ -1,0 +1,9 @@
+name: Breakcraft-Lobby
+version: 1.0
+main: de.Breakcraft.Lobby.Main
+commands:
+  forcedSpawn:
+  ban:
+  servernpc:
+softdepend:
+  - PermissionsEX

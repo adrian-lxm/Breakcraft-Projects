@@ -1,0 +1,9 @@
+name: Breakcraft-Challenges
+version: 1.0
+main: de.Breakcraft.Challenges.Main
+commands:
+  forcedspawn:
+  challenges:
+
+softdepend:
+  - PermissionsEX
